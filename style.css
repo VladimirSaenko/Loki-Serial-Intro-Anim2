@@ -29,9 +29,6 @@
 .box span {
     font-size: 200px;
     letter-spacing: 20px;
-    /* text-shadow: -15px 5px 13px rgb(255, 255, 255),
-                 5px 5px 13px rgb(255, 255, 255),
-                 15px 2px 13px rgb(255, 255, 255); */
 }
 
 .box .git-link span {
@@ -49,12 +46,6 @@
 .box .git-link a {
     text-decoration: none;
     color: white;
-}
-
-.git-link:hover {
-    text-shadow: -15px 5px 13px rgb(255, 255, 255),
-    5px 5px 13px rgb(255, 255, 255),
-    15px 2px 13px rgb(255, 255, 255);
 }
 
 .box p span, .box p a {
