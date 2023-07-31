@@ -31,10 +31,6 @@
     letter-spacing: 20px;
 }
 
-.box p span {
-    font-size: 45px;
-}
-
 #letter1 {
     animation: animLetter1 9s infinite;
 }
@@ -238,11 +234,7 @@
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
     .box span {
-        font-size: 95px;
+        font-size: 65px;
         letter-spacing: 10px;
-    }
-
-    .box p span {
-        font-size: 30px;
     }
 }
