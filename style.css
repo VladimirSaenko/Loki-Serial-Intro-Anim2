@@ -31,24 +31,7 @@
     letter-spacing: 20px;
 }
 
-.box .git-link span {
-    letter-spacing: -1px;
-    text-shadow: none;
-}
-
-.git-link {
-    position: absolute;
-    top: 10%;
-    color: white;
-    text-transform: uppercase;
-}
-
-.box .git-link a {
-    text-decoration: none;
-    color: white;
-}
-
-.box p span, .box p a {
+.box p span {
     font-size: 45px;
 }
 
@@ -259,7 +242,7 @@
         letter-spacing: 10px;
     }
 
-    .box p span, .box p a {
+    .box p span {
         font-size: 30px;
     }
 }
