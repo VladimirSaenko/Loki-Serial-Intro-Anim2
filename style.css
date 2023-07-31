@@ -49,7 +49,7 @@
 
 @keyframes animLetter1 {
     10% {
-        text-shadow: var(--white-shadow);   
+        text-shadow: var(--white-shadow);
     }
 
     20% {
