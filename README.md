@@ -1,6 +1,6 @@
 # Loki-Serial-Intro-Anim
 
-## Loki serial intro Season 1
+## Loki serial intro
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/BaRvVJr
 
